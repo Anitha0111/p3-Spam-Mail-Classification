@@ -34,7 +34,6 @@ streamlit run spamDetector.py
 
 # Acknowledgments
 - Built as part of AICTE Internship on AI and ML
-- Dataset source: [Add your dataset source]
 - Special thanks to project mentors
 
 ## Contact
